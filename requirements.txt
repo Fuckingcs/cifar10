@@ -1,0 +1,7 @@
+torch==2.1.1
+torchvision==0.16.1
+torchaudio==2.1.1
+pytorch-lightning>=2.1.0
+torchmetrics>=1.0.0
+albumentations
+matplotlib              
